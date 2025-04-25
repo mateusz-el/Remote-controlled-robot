@@ -1,6 +1,7 @@
 # Remote-controlled-robot
 
 POLISH
+Status projektu: zakończony (planowane rozwijanie projektu w przyszłości)
 Projekt wykonano w ramach własnych zainteresowań i chęci nauki zaprojektowania i zbudowania własnego, zdalnie sterowanego pojazdu. Zdalnie sterowany pojazd wykorzytuje moduł Bluetooth do komunikacji z telefonem. Telefon obsługuje aplikację Dabble, w celu umożliwienia kontroli nad pojazdem. Aplikacja Dabble jest dostępna do pobrania za darmo zarówno w Google Play, jak i w Appstore (Android/iOS). Wykorzystywany mikrokontroler w projekcie to klon Arduino Uno. Cały kod programu został napisany w programie Arduino IDE, przy wykorzystaniu gotowych bibliotek do aplikacji Dabble.
 
 Założenia projektu:
@@ -25,6 +26,7 @@ Wykorzystane elementy w projekcie:
 Finalnie, projekt zakończony sukcesem.  Na filmie w pliku: "Robot_in_action" można zobaczyć jak sterowany jest pojazd za pomocą telefonu. W planach jest dalsze rozwinięcie projektu, z zamiarem zakupu i umiejscowienia kamery w celu podglądu na żywo z niej oraz zmiana komunikacji z Bluetooth na radiową, tak, aby zasięg pojazdu był znacznie większy.
 
 ENGLISH
+Project status: completed (planned future development of the project)
 The project was created as part of my own interests and desire to learn how to design and build my own remote-controlled vehicle. The remote-controlled vehicle uses a Bluetooth module to communicate with the phone. The phone supports the Dabble application to control the vehicle. The Dabble application is available for free download on both Google Play and the Appstore (Android/iOS). The microcontroller used in the project is an Arduino Uno clone. The entire program code was written in the Arduino IDE program, using ready-made libraries for the Dabble application.
 
 Project assumptions:
